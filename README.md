@@ -1,6 +1,7 @@
 # Profit Tracker
 
-A comprehensive profit tracking application designed for resellers to manage inventory, track sales, and analyze business performance.
+A comprehensive profit tracking application designed for resellers to manage inventory, track sales, and analyze "business" performance.
+(It's just an application for resellers to keep track of their sales) 
 
 ## Data Storage
 
